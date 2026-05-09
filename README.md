@@ -7,9 +7,9 @@ A comprehensive collection of classical and modern AI projects developed at **Am
 ## 📂 Project Portfolio
 
 ### 1. 📦 [Sokoban Search Solver](./01-Sokoban-AI-Solver)
-* [cite_start]**Goal:** Solving a modified Sokoban puzzle with dynamic costs (Apples and Poisons)[cite: 987, 989].
-* [cite_start]**Algorithms:** BFS, DFS, UCS, Greedy Search, and **A***[cite: 969, 970].
-* [cite_start]**Key Features:** Custom heuristic design with corner-deadlock detection for optimal pathfinding in complex grids[cite: 990].
+*  **Goal:** Solving a modified Sokoban puzzle with dynamic costs (Apples and Poisons).
+*  **Algorithms:** BFS, DFS, UCS, Greedy Search, and **A***.
+*  **Key Features:** Custom heuristic design with corner-deadlock detection for optimal pathfinding in complex grids.
 
 ### 2. 🧩 [Crossword CSP Solver](./02-Crossword-CSP-Solver)
 * **Goal:** Automated crossword puzzle generation using **Constraint Satisfaction Problems (CSP)**.
@@ -17,12 +17,12 @@ A comprehensive collection of classical and modern AI projects developed at **Am
 * **Optimizations:** Utilizes **MRV (Minimum Remaining Values)**, Degree Heuristics, and **LCV (Least Constraining Value)** to minimize search space.
 
 ### 3. ⚔️ [Adversarial Isolation Agent](./03-Isolation-Game-Agent)
-* [cite_start]**Goal:** An intelligent agent for the game "Isolation" featuring Knight-like movement[cite: 997, 999].
-* [cite_start]**Algorithms:** **Minimax** and **Alpha-Beta Pruning** with **Iterative Deepening** to meet strict time constraints[cite: 983, 986].
+*  **Goal:** An intelligent agent for the game "Isolation" featuring Knight-like movement.
+*  **Algorithms:** **Minimax** and **Alpha-Beta Pruning** with **Iterative Deepening** to meet strict time constraints.
 * **Heuristics:** Advanced evaluation functions focusing on board control and limiting opponent mobility.
 
 ### 4. 🚀 [RL LunarLander & MDP](./04-RL-LunarLander)
-* [cite_start]**Goal:** Mastering the `LunarLander-v2` environment and solving GridWorld MDPs[cite: 987, 989].
+*  **Goal:** Mastering the `LunarLander-v2` environment and solving GridWorld MDPs.
 * **Reinforcement Learning:** Implemented **Q-Learning** with state discretization (binning) to handle continuous state spaces.
 * **Dynamic Programming:** Solves MDPs using **Value Iteration** and **Policy Iteration** based on Bellman Equations.
 
@@ -35,9 +35,9 @@ A comprehensive collection of classical and modern AI projects developed at **Am
 ---
 
 ## 🛠️ Tech Stack & Requirements
-* [cite_start]**Language:** Python 3.10+ [cite: 1010]
-* [cite_start]**Libraries:** `Pygame`, `NumPy`, `Pandas`, `Gymnasium`, `Matplotlib`, `Sci-kit Learn` [cite: 1010]
-* [cite_start]**Documentation:** LaTeX (for technical reports) [cite: 1010]
+*  **Language:** Python 3.10+ [cite: 1010]
+*  **Libraries:** `Pygame`, `NumPy`, `Pandas`, `Gymnasium`, `Matplotlib`, `Sci-kit Learn` 
+*  **Documentation:** LaTeX (for technical reports) 
 
 ## 🚀 How to Run
 1. Clone the repository: `git clone https://github.com/parand1khalili/Fundamentals-of-AI.git`
@@ -45,4 +45,4 @@ A comprehensive collection of classical and modern AI projects developed at **Am
 3. Navigate to any project folder and run the `main.py` or `.ipynb` file.
 
 ---
-[cite_start]*Developed by **Parand Khalili** as part of the B.S. in Computer Engineering at Amirkabir University of Technology.* [cite: 947, 948]
+ *Developed by **Parand Khalili** as part of the B.S. in Computer Engineering at Amirkabir University of Technology.* 
