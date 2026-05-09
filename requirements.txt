@@ -1,0 +1,6 @@
+pygame
+numpy
+pandas
+gymnasium
+matplotlib
+ipykernel
